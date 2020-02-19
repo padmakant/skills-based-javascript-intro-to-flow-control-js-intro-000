@@ -1,5 +1,5 @@
 function basicTeenager(age) {
-if(19>=age>=13){
+if(age >= 13 && age <= 19){
   Console.log("You are teenager!")
 }
 }
